@@ -21,7 +21,7 @@
    </head>
    <body>
        <button id="soundButton">Нажми меня!</button>
-       <audio id="sound" src="">sound.mp3</audio>
+       <audio id="sound" src="">https://www.myinstants.com/ru/instant/uletaiu-na-gaitii-no-eto-minus-ushi-9613/?utm_source=copy&utm_medium=share</audio>
        <script>
            const button = document.getElementById('soundButton');
            const sound = document.getElementById('sound');
